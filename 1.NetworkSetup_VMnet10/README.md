@@ -1,4 +1,6 @@
-**This file is to provide a repository for the files referenced in the StackOverflow Question : []() by @SomuSysAdmin**
+**This file is to provide a repository for the files referenced in the StackOverflow Question :** [
+Host can't talk to the guest VM when the IP is changed from DHCP assigned dynamic to static
+](https://superuser.com/questions/1298203/host-cant-talk-to-the-guest-vm-when-the-ip-is-changed-from-dhcp-assigned-dynami) by _@SomuSysAdmin_
 
 ---
 
