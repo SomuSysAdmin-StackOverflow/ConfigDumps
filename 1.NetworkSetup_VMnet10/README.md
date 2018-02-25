@@ -10,9 +10,9 @@
 [Contents of `/etc/vmware/vmnet10/dhcpd/dhcpd.conf` file of the **host**](https://github.com/SomuSysAdmin-StackOverflow/ConfigDumps/blob/master/1.NetworkSetup_VMnet10/host_vmnet10_dhcpd.conf)
 
 ### 3. Network Scripts:
-[Contents of `/etc/sysconfig/network-scripts/ifcfg-SomuVMnetWifi`](https://github.com/SomuSysAdmin-StackOverflow/ConfigDumps/blob/master/1.NetworkSetup_VMnet10/ifcfg-SomuVMnetWifi)
+* [Contents of `/etc/sysconfig/network-scripts/ifcfg-SomuVMnetWifi`](https://github.com/SomuSysAdmin-StackOverflow/ConfigDumps/blob/master/1.NetworkSetup_VMnet10/ifcfg-SomuVMnetWifi)
 
-[Output of `$ ifconfig vmnet10` on **host**](https://github.com/SomuSysAdmin-StackOverflow/ConfigDumps/blob/master/1.NetworkSetup_VMnet10/host_vmnet10_ifconfig_output)
+* [Output of `$ ifconfig vmnet10` on **host**](https://github.com/SomuSysAdmin-StackOverflow/ConfigDumps/blob/master/1.NetworkSetup_VMnet10/host_vmnet10_ifconfig_output)
 
 ---
 
