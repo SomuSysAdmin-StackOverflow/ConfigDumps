@@ -1,0 +1,9 @@
+$ ifconfig vmnet10
+vmnet10: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+inet 10.0.99.1  netmask 255.255.255.0  broadcast 10.0.99.255
+    inet6 fe80::250:56ff:fec0:a  prefixlen 64  scopeid 0x20<link>
+    ether 00:50:56:c0:00:0a  txqueuelen 1000  (Ethernet)
+    RX packets 107  bytes 0 (0.0 B)
+    RX errors 0  dropped 0  overruns 0  frame 0
+    TX packets 120  bytes 0 (0.0 B)
+    TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
